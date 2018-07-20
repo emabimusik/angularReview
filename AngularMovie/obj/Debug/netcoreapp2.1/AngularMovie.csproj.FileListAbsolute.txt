@@ -1,0 +1,14 @@
+/Users/mac/Projects/AngularMovie/AngularMovie/bin/Debug/netcoreapp2.1/AngularMovie.deps.json
+/Users/mac/Projects/AngularMovie/AngularMovie/bin/Debug/netcoreapp2.1/AngularMovie.runtimeconfig.json
+/Users/mac/Projects/AngularMovie/AngularMovie/bin/Debug/netcoreapp2.1/AngularMovie.runtimeconfig.dev.json
+/Users/mac/Projects/AngularMovie/AngularMovie/bin/Debug/netcoreapp2.1/AngularMovie.dll
+/Users/mac/Projects/AngularMovie/AngularMovie/bin/Debug/netcoreapp2.1/AngularMovie.pdb
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.RazorAssemblyInfo.cache
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.RazorAssemblyInfo.cs
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.AssemblyInfoInputs.cache
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.AssemblyInfo.cs
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.RazorTargetAssemblyInfo.cache
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.dll
+/Users/mac/Projects/AngularMovie/AngularMovie/obj/Debug/netcoreapp2.1/AngularMovie.pdb
